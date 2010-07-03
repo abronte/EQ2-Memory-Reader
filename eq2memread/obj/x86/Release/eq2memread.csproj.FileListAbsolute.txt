@@ -1,0 +1,10 @@
+C:\Users\adam\documents\visual studio 2010\Projects\eq2memread\eq2memread\bin\Release\eq2memread.exe
+C:\Users\adam\documents\visual studio 2010\Projects\eq2memread\eq2memread\bin\Release\eq2memread.pdb
+C:\Users\adam\documents\visual studio 2010\Projects\eq2memread\eq2memread\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\adam\documents\visual studio 2010\Projects\eq2memread\eq2memread\obj\x86\Release\eq2memread.exe
+C:\Users\adam\documents\visual studio 2010\Projects\eq2memread\eq2memread\obj\x86\Release\eq2memread.pdb
+C:\Users\adam\Documents\My Dropbox\eq2\eq2memread\eq2memread\bin\Release\eq2memread.exe
+C:\Users\adam\Documents\My Dropbox\eq2\eq2memread\eq2memread\bin\Release\eq2memread.pdb
+C:\Users\adam\Documents\My Dropbox\eq2\eq2memread\eq2memread\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\adam\Documents\My Dropbox\eq2\eq2memread\eq2memread\obj\x86\Release\eq2memread.exe
+C:\Users\adam\Documents\My Dropbox\eq2\eq2memread\eq2memread\obj\x86\Release\eq2memread.pdb
